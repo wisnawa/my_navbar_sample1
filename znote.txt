@@ -1,2 +1,0 @@
-repo name: my_navbar_sample1
-description: navbar only
