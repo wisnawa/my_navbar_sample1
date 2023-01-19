@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(190, 218, 167);
+}
+th {
+  text-align: left;
+  background: yellow;
+  color: red;
+  border-radius: 3px;
+}
+td {
+  text-align: left;
+  padding: 2px 5px 2px;
+}
